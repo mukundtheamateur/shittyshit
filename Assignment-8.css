@@ -1,0 +1,63 @@
+body{
+   
+}
+span{
+    color: cyan;
+    text-decoration: underline;
+    
+}
+fieldset{
+    width: fit-content;
+}
+div{
+    border: 2px solid black;
+    position: absolute;
+    
+    height: 620px;
+ 
+}
+.a{
+    margin-top: -60px;
+    margin-left: 140px; 
+
+}
+.b{
+    margin-top: 5px;
+    margin-left: 140px;
+}
+.d{
+    margin-top: -35px;
+    margin-left: 140px;
+}
+.e{
+    margin-left: 255px;
+    margin-top: -555px;
+}
+.f{
+    margin-left: 255px;
+    margin-top: 0px;
+}
+.g{
+    margin-left: 255px;
+    margin-top: 0px;
+}
+.min{
+    margin-left: 555px;
+    margin-top: -520px;
+}
+.max{
+    margin-left: 555px;
+    margin-top: 60px;
+}
+.ram{
+    margin-left: 555px;
+    margin-top: 60px;
+}
+.mram{
+    margin-left: 555px;
+    margin-top: 60px;
+}
+input[type="range"]{
+    margin-left: 555px;
+    margin-top: 15px;
+}
